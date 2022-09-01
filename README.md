@@ -6,7 +6,7 @@
   ## Description
   This app is designed to be an easy and fun coding quiz for anyone that wasnt to test their knowledge.
 
-  https://emilioeth.github.io/Coding-Quiz/
+  [Link](https://emilioeth.github.io/Coding-Quiz/)
 
   ![visitors](https://visitor-badge.glitch.me/badge?page_id=Emilioeth.Coding+Quiz&left_color=blue&right_color=blue)
 
